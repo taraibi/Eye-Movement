@@ -2,7 +2,7 @@
 A pair of eyes follow the your mouse as it moves.
 
 # Description
-This simple program creates two eyes on the page that change position to follow the movement of the mouse.
+This program creates two eyes on your webpage page that follow the movement of your mouse
 
 there are 3 class elements that are used.
 
