@@ -7,7 +7,11 @@ This simple program creates two eyes on the page that change position to follow 
 there are 3 class elements that are used.
 
 Eyes -- sets the postion of the eyes onto the page
+
+
 Ball -- creates the Iris shape
+
+
 Eye -- creates the eye shape
 
 
