@@ -24,5 +24,9 @@ To view this program, download eyes.css, eyes.js, and eyes.html into the same lo
 * CSS
 * JavaScript
 
+# Roadmap
+
+decorate the eyes more, add more elements that will be tracked, perhaps make it so separate eyes track different things
+
 # License
 This project is licensed under the MIT License.
